@@ -20,7 +20,6 @@ Built for a Computer Networks course project. Includes a custom binary packet fo
 ├── final_metrics.csv           # Summary metrics across test runs
 ├── technical report.pdf
 ├── Mini-RFC.pdf                 # Protocol specification (RFC-style)
-├── Mini-RFC draft (sections 1-7) fully updated.pdf
 ├── Computer_Networks_Proposal.pdf
 └── TEAM38.pptx                  # Project presentation slides
 ```
@@ -111,4 +110,4 @@ Recorded metrics per test:
 
 ## Team
 
-Team 38 — Computer Networks Project, Phase 2
+Team 38 — Computer Networks Project
