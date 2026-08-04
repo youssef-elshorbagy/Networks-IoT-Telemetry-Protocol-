@@ -1,4 +1,4 @@
-# IoT Telemetry Protocol — Team 38
+# IoT Telemetry Protocol
 
 A custom UDP-based protocol for reporting IoT sensor telemetry (temperature and humidity) from multiple simulated devices to a central server, with support for acknowledgements, sequence tracking, batch transmission, and testing under simulated network impairment (packet loss, delay, jitter, duplication).
 
