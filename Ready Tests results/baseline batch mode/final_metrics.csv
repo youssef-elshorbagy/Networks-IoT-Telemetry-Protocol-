@@ -1,0 +1,2 @@
+Test Name,packets_received,bytes_per_report,duplicate_rate,sequence_gap_count,cpu_ms_per_report
+Baseline Batch Mode (5 Packets),8,33.00,0.0000,0,2.5000
